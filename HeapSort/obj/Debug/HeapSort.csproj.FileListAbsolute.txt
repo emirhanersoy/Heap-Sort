@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Source\Repos\Algoritmalar\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+C:\Users\Emirhan\Source\Repos\Algoritmalar\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+C:\Users\Emirhan\Source\Repos\Algoritmalar\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\HeapSort\HeapSort\obj\Debug\HeapSort.pdb
